@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-vanus&layout=compact&langs_count=7&theme=dark">
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django-icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
   <img align="center" alt="MySQL-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
